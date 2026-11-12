@@ -7,7 +7,7 @@ class Arrays{
 		numbers[3]=40;
 		numbers[4]=50;
 		
-		for(int i = 0; i < 5; i++){
+		for(int i = 0; i < numbers.length; i++){
 			System.out.println(numbers[i]);
 		}
 	}
