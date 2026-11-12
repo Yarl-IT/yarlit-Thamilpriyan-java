@@ -3,7 +3,7 @@ class ArrayWhileLoopForward{
 		int[] numbers = new int[]{10, 20, 30, 40, 50};
 		
 		int i = 0;
-		while(i<5){
+		while(i<numbers.length){
 			System.out.println(numbers[i]);
 			i++;
 		}
