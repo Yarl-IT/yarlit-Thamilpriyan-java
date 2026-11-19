@@ -18,5 +18,6 @@ class StudentMarksArray{
 		System.out.println("Total Marks: " + total);
 		System.out.println("Average Marks: " + average);
 		input.close();
+		
 	}
 }
